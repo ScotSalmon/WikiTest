@@ -11,6 +11,9 @@ More:
 2. This
 3. List
 
+Apparently I can also code some HTML right in here but I'm not sure what the restrictions are. Like, &lt;script&gt; actually seemed to be interpreted (<blink> wasn't). I dunno what VSTS's Paste as HTML button does. Horizonal rule works though:
+<hr>
+
 - [x] Checkboxes
 - [ ] Are useful
 
@@ -24,3 +27,11 @@ Or work item references
 wait a minute how does this project's wiki have access to that project's work items my mind is blown.
 
 Curious about other wiki pages though
+[Subpage for test wiki](/Subpage-for-test-wiki)
+Man I am surprised there's not a better way to link that than to drag it in from the list of pages...
+
+Some code:
+```
+10 PRINT "I WILL NOT CODE IN BASIC"
+20 GOTO 10
+```
